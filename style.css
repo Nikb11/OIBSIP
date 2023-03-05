@@ -2,6 +2,7 @@
 
 :root{
    --primary-color: #86198f;
+   --dark-gray:#9ca3af;
 }
 
 body{
@@ -89,4 +90,6 @@ hr{
 
 .hero .hero-heading{
     padding-top: 1rem;
+    color: var(--dark-gray);
+
 }
